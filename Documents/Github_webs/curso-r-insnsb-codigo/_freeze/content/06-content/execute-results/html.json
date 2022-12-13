@@ -1,0 +1,14 @@
+{
+  "hash": "e81eb8b690685620a824a0d0d2a1531f",
+  "result": {
+    "markdown": "---\ntitle: \"Sesión 06\"\ndate: \"2022-10-14\"\n---\n\n\n## Objetivos\n\nEn esta sesión se buscará abordar los siguientes temas: \n\n- Revisión de inferencia estadística: Estimación de intervalos de confianza y pruebas de hipótesis paramétricas y no paramétricas para un grupo, dos grupos y tres grupos con paquete rstatix. \n\n- Creación automatizada de Tabla 1 reproducible con paquete gtsummary().\n\n\n## Materiales\n\n::: {.panel-tabset}\n\n### Clase grabada\n\n<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/760615209?h=fdb0cf7935&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Sesi&amp;oacute;n 06 - Inferencia Estad&amp;iacute;stica param&amp;eacute;trica y no param&amp;eacute;trica\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\n\n### Slides\n\n\n\n\n<p><a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/sesion06/sesion06_chalkboard-speaker.html\"><i class=\"fa-solid fa-arrow-up-right-from-square\"></i> Ver diapositivas en una nueva ventana</a></p>\n\n```{=html}\n<iframe width=\"780\" height=\"500\" src=\"../slides/sesion06/sesion06_chalkboard-speaker.html\" title=\"Sesión 6 - Principios de inferencia e inferencia paramétrica\"></iframe>\n```\n\n\n### Talleres\n\n- Puede descargar los archivos generados en la carpeta `taller06` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/11c7a1ITDLMp8yadvtumi0LcJ59dc8cwo?usp=sharing).\n\n\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

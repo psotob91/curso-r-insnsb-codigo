@@ -1,0 +1,14 @@
+{
+  "hash": "44f63f61fbc454390c21a30383e187d3",
+  "result": {
+    "markdown": "---\ntitle: \"Sesión 11\"\ndate: \"2022-10-26\"\n---\n\n\n## Objetivos\n\nEn esta sesión se buscará abordar los siguientes temas: \n\n- Ajuste\n\n- Introducción a inferencia causal\n\n- Confusión, mediador, colisionador\n\n- Uso de DAG para seleccionar variables\n\n\n## Materiales\n\n::: {.panel-tabset}\n\n### Clase grabada\n\n<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/765239627?h=60c1286056&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Sesi&amp;oacute;n 11 - Ajuste e intro a inferencia causal: confusi&amp;oacute;n\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\n\n### Slides\n\n\n\n\n<p><a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/sesion11/sesion11_chalkboard-speaker.html\"><i class=\"fa-solid fa-arrow-up-right-from-square\"></i> Ver diapositivas en una nueva ventana</a></p>\n\n```{=html}\n<iframe width=\"780\" height=\"500\" src=\"../slides/sesion11/sesion11_chalkboard-speaker.html\" title=\"Sesión 11 - Estrategias de modelado explicativo 2\"></iframe>\n```\n\n\n### Talleres\n\n- Puede descargar los archivos generados en la carpeta `taller11` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/1qrelWtFg9R-WaPbNKgu0Kf59LXhiLI1f?usp=sharing).\n\n\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

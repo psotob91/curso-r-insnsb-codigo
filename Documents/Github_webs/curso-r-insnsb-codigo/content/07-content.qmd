@@ -1,0 +1,44 @@
+---
+title: "Sesión 07"
+date: "2022-10-17"
+---
+
+## Objetivos
+
+En esta sesión se buscará abordar los siguientes temas: 
+
+- Inferencia estadística no paramétrica 2: ¿Qué hacer cuando no se cumplen los supuestos? 
+
+- Uso de paquete infer para pruebas de hipótesis con remuestreo y uso de varianzas robustas.
+
+
+## Materiales
+
+::: {.panel-tabset}
+
+### Clase grabada
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/761244230?h=471a6149b3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sesi&amp;oacute;n 07 - Inferencia basada en remuestreo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+### Slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs1, echo=FALSE, results="asis"}
+slide_buttons("/slides/sesion07/sesion07_chalkboard-speaker")
+```
+
+```{=html}
+<iframe width="780" height="500" src="../slides/sesion07/sesion07_chalkboard-speaker.html" title="Sesión 7 - Inferencia no paramétrica"></iframe>
+```
+
+### Talleres
+
+- Puede descargar los archivos generados en la carpeta `taller07` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/1oZIAfHAm-8kyu8JhiDWgGSuQtV43pl27?usp=sharing).
+
+
+:::
+
+

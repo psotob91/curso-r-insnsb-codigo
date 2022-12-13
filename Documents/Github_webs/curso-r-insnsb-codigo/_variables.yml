@@ -1,0 +1,33 @@
+author: Percy Soto-Becerra
+
+lang: es
+
+instructor:
+  name: Percy Soto-Becerra, M.D., M.Sc(c)
+  name_no_title: Percy Soto-Becerra
+  email: percys1991@gmail.com
+  url: "https://github.com/psotob91"
+  twitter: psotob91
+  github: psotob91
+  office: "Virtual: Zoom"
+  contact_policy: >-
+    E-mail y Whatssap son las mejores formas de ponerse en contacto conmigo. Intentaré responder a todos los correos electrónicos relacionados con el curso y los mensajes dentro de las 24 horas (*de verdad*), pero también recuerde que la vida puede ser ajetreada y caótica para todos (¡incluido yo!), así que si no respondo enseguida, no te preocupes!
+  appointment_url: https://calendly.com/psotob91/15-minutos-de-reunion?back=1&month=2022-08
+
+course:
+  number: "RINSNSB 2022"
+  semester: "Primavera 2022"
+  days: "Lunes, miércoles y viernes"
+  time: "2-4 pm"
+  location: "Zoom"
+  dates: "03 de octubre al 30 de octubre, 2022"
+  github: "https://github.com/psotob91/curso-r-insnsb"
+  copyright_year: "2022"
+
+university:
+  name: Instituto Nacional de Salud del Niño San Borja
+  url: "https://www.insnsb.gob.pe/"
+
+school:
+  name: Área de Capacitación y Desarrollo
+  url: "https://www.insnsb.gob.pe/docencia/"

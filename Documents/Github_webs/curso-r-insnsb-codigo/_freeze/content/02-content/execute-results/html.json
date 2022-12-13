@@ -1,0 +1,14 @@
+{
+  "hash": "f26f10a4ea00489530d59da31de256c2",
+  "result": {
+    "markdown": "---\ntitle: \"Sesión 02\"\ndate: \"2022-10-05\"\n---\n\n\n## Objetivos\n\nEn esta sesión se buscará abordar los siguientes temas: \n\n- Estrategias gráficas de inspección/exploración de datos con ggplot().\n\n- Operador asignar y pipe (%>%). \n\n- Manejo de datos con dplyr 1, funciones select(), filter(), y arrange().\n\n## Materiales\n\n::: {.panel-tabset}\n\n### Clase grabada\n\n<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/757625946?h=e75403206e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Sesi&amp;oacute;n 02 - Visualizaci&amp;oacute;n e introducci&amp;oacute;n al manejo de datos con R\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\n\n### Slides\n\n\n\n\n<p><a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/sesion02/sesion02_chalkboard-speaker.html\"><i class=\"fa-solid fa-arrow-up-right-from-square\"></i> Ver diapositivas en una nueva ventana</a></p>\n\n```{=html}\n<iframe width=\"780\" height=\"500\" src=\"../slides/sesion02/sesion02_chalkboard-speaker.html\" title=\"Sesión 2 - Gráficos en ggplot2 y manejo de datos con dplyr\"></iframe>\n```\n\n\n### Talleres\n\n- Puede descargar los archivos generados en la carpeta `taller02` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/18PHD4uNhXBJVKyLxfl6q9XoYx0ax9hXG?usp=sharing).\n\n\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

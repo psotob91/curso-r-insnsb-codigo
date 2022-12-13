@@ -1,0 +1,52 @@
+---
+title: "Sesión 08"
+date: "2022-10-19"
+---
+
+## Objetivos
+
+En esta sesión se buscará abordar los siguientes temas: 
+
+- Regresión para datos numéricos: Regresión lineal 
+
+- Regresión Lineal en R
+
+- Evaluación de supuestos
+
+## Materiales
+
+::: {.panel-tabset}
+
+### Clase grabada
+
+**Parte 1**
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/765324543?h=8474df574f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="New Recording - 29/10/2022, 18:32:50"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+**Parte 2**
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/765336601?h=22a0f21d26&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="New Recording - 29/10/2022, 20:33:38"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+### Slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs1, echo=FALSE, results="asis"}
+slide_buttons("/slides/sesion08/sesion08_chalkboard-speaker")
+```
+
+```{=html}
+<iframe width="780" height="500" src="../slides/sesion08/sesion08_chalkboard-speaker.html" title="Sesión 8 - Regresión para datos numéricos"></iframe>
+```
+
+### Talleres
+
+- Puede descargar los archivos generados en la carpeta `taller08` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/1sjSCU2RpJzsZTg3zJW-q1ZxIcQRE1nbF?usp=sharing).
+
+
+:::
+
+

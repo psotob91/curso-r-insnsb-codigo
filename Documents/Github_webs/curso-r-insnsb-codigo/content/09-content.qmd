@@ -1,0 +1,46 @@
+---
+title: "Sesión 09"
+date: "2022-10-21"
+---
+
+## Objetivos
+
+En esta sesión se buscará abordar los siguientes temas: 
+
+- Regresión para datos numéricos: Regresión de Poisson y Binomial Negativa con R. 
+
+- Evaluación de supuestos, interpretación de resultados y reporte reproducible con gt_summary().
+
+- Evaluación de supuestos, interpretación y reporte reproducible con gt_summary(). 
+
+
+## Materiales
+
+::: {.panel-tabset}
+
+### Clase grabada
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/763368984?h=e96caad3dd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="sesion09"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+### Slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs1, echo=FALSE, results="asis"}
+slide_buttons("/slides/sesion09/sesion09_chalkboard-speaker")
+```
+
+```{=html}
+<iframe width="780" height="500" src="../slides/sesion09/sesion09_chalkboard-speaker.html" title="Sesión 9 - Regresión para datos binarios"></iframe>
+```
+
+### Talleres
+
+- Puede descargar los archivos generados en la carpeta `taller09` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/1eA687qrvz-JFy15w_XyxZDMJi3gZt37b?usp=sharing).
+
+
+:::
+
+

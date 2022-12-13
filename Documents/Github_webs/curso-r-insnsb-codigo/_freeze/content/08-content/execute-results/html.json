@@ -1,0 +1,16 @@
+{
+  "hash": "9d83965f002397c0d2c814b12a6275dc",
+  "result": {
+    "markdown": "---\ntitle: \"Sesión 08\"\ndate: \"2022-10-19\"\n---\n\n\n## Objetivos\n\nEn esta sesión se buscará abordar los siguientes temas: \n\n- Regresión para datos numéricos: Regresión lineal \n\n- Regresión Lineal en R\n\n- Evaluación de supuestos\n\n## Materiales\n\n::: {.panel-tabset}\n\n### Clase grabada\n\n**Parte 1**\n\n<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/765324543?h=8474df574f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"New Recording - 29/10/2022, 18:32:50\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\n**Parte 2**\n\n<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/765336601?h=22a0f21d26&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"New Recording - 29/10/2022, 20:33:38\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\n\n### Slides\n\n\n\n\n<p><a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/sesion08/sesion08_chalkboard-speaker.html\"><i class=\"fa-solid fa-arrow-up-right-from-square\"></i> Ver diapositivas en una nueva ventana</a></p>\n\n```{=html}\n<iframe width=\"780\" height=\"500\" src=\"../slides/sesion08/sesion08_chalkboard-speaker.html\" title=\"Sesión 8 - Regresión para datos numéricos\"></iframe>\n```\n\n\n### Talleres\n\n- Puede descargar los archivos generados en la carpeta `taller08` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/1sjSCU2RpJzsZTg3zJW-q1ZxIcQRE1nbF?usp=sharing).\n\n\n:::\n\n\n",
+    "supporting": [
+      "08-content_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

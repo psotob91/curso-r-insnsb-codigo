@@ -1,0 +1,14 @@
+{
+  "hash": "04e48ebcfd8daa73aef09d58460d7620",
+  "result": {
+    "markdown": "---\ntitle: \"Sesión 12\"\ndate: \"2022-10-28\"\n---\n\n\n## Objetivos\n\nEn esta sesión se buscará abordar los siguientes temas: \n\n- Linealidad y forma funcional de variables predictoras\n\n- Selección de variables\n\n- Recomendaciones para selección de variables y selección de forma\n\n## Materiales\n\n::: {.panel-tabset}\n\n### Clase grabada\n\n<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/765240090?h=d877997a4c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Sesi&amp;oacute;n 12 - Linealidad, forma funcional y selecci&amp;oacute;n de variables\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\n### Slides\n\n\n\n\n\n\n```{=html}\n<iframe width=\"780\" height=\"500\" src=\"../slides/sesion12/sesion12_chalkboard-speaker.html\" title=\"Sesión 12 - Estrategias de modelado explicativo 3\"></iframe>\n```\n\n\n### Talleres\n\n- Puede descargar los archivos generados en la carpeta `taller12` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/1XOW6gQYDkTf_cj9sRexHaDJLRESJYuAV?usp=sharing).\n\n\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

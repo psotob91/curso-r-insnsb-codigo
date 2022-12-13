@@ -1,0 +1,49 @@
+---
+title: "R Aplicado a los Proyecto de Investigación"
+subtitle: "Curso para profesionales de la salud del Instituto Nacional de Salud del Niño San Borja"
+details: |
+  RINSNSB 2022 • Primavera 2022<br>Instituto Nacional de Salud del Niño San Borja | <br> Área de Capacitación y Desarrollo<br> Virtual 
+sidebar: false
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+course-logo: /files/img/eval-hires-insnsb.jpg
+---
+
+::: {.home}
+
+::: {.grid .course-details}
+
+::: {.g-col-4}
+### Instructor
+
+- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
+- {{< fa university >}} &nbsp; {{< var instructor.office >}}
+- {{< fa envelope >}} &nbsp; <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
+- {{< fa brands twitter >}} &nbsp; [{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})
+- {{< fa calendar-check >}} &nbsp; [Agenda una reunión virtual]({{< var instructor.appointment_url >}})
+:::
+
+::: {.g-col-4}
+### Detalles del curso
+
+- {{< fa calendar >}} &nbsp; {{< var course.days >}}
+- {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
+- {{< fa clock >}} &nbsp; {{< var course.time >}}
+- {{< fa location-dot >}} &nbsp; {{< var course.location >}}
+:::
+
+::: {.g-col-4 .contact-policy}
+### Contáctame
+
+{{< var instructor.contact_policy >}}
+:::
+
+:::
+
+![](files/img/eval-hires-flowchart-insnsb.png)
+
+:::

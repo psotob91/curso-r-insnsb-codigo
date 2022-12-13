@@ -1,0 +1,51 @@
+---
+title: "Sesión 03"
+date: "2022-10-07"
+---
+
+## Objetivos
+
+En esta sesión se buscará abordar los siguientes temas: 
+
+- Importar datos de Excel, Stata, SPSS, CSV. 
+
+- Manejo de datos con dplyr 2: mutate(), rename() y recode(). 
+
+- Uso de helpers y otros atajos. 
+
+- Inspección Inicial de Datos vs. Análisis Exploratorio de Datos. 
+
+- Estrategias analíticas de inspección/exploración de datos con glimpse(), skim(), describe().
+
+
+## Materiales
+
+::: {.panel-tabset}
+
+### Clase grabada
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/758183385?h=e1306aa23e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="sesion03"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+### Slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs1, echo=FALSE, results="asis"}
+slide_buttons("/slides/sesion03/sesion03_chalkboard-speaker")
+```
+
+```{=html}
+<iframe width="780" height="500" src="../slides/sesion03/sesion03_chalkboard-speaker.html" title="Sesión 3 - Importar y manejar datos en R. AID y AED."></iframe>
+```
+
+### Talleres
+
+- Puede descargar los archivos generados en la carpeta `taller03` en el siguiente enlace: [Aquí](https://drive.google.com/drive/folders/1IzzVu64eZDnv1C-iNNFz6L5Zjfx--Z-G?usp=sharing).
+
+
+:::
+
+
